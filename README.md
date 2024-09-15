@@ -22,8 +22,12 @@ Curated list of important data science resources
 * [Book] [Deep Learning with Python by François Chollet](https://www.manning.com/books/deep-learning-with-python) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/fchollet/deep-learning-with-python-notebooks)
 
 ## Natural Language Processing
+* [GitHub] [Traditional NLP] [dipanjanS/text-analytics-with-python](https://github.com/dipanjanS/text-analytics-with-python/tree/master/New-Second-Edition)
+* [GitHub] [Traditional NLP] [susanli2016/NLP-with-Python](https://github.com/susanli2016/NLP-with-Python)
 * [Short Course] [Advanced NLP with SpaCy](https://course.spacy.io/en/)
+
 * [Short Course] [Hugging Face NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1)
+* [Book] [Natural Language Processing with Transformers, Revised Edition](https://www.oreilly.com/library/view/natural-language-processing/9781098136789/)
 
 ## Machine Learning System Design
 * **[Book] [Designing Machine Learning Systems by Chip Huyen](https://www.oreilly.com/library/view/designing-machine-learning/9781098107956/) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/chiphuyen/machine-learning-systems-design)**
