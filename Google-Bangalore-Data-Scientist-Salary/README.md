@@ -26,3 +26,6 @@
 `Demographics - Qualification`<br>
 3. With the outputs, create the JSONL file, [base_data_15MAR25.jsonl](https://github.com/AI-ML-Notes/Awesome-Data-Science-Resources/blob/main/Google-Bangalore-Data-Scientist-Salary/base_data_15MAR25.jsonl).
 4. After data cleaning, final data, [Base Data - 15MAR25.csv](https://github.com/AI-ML-Notes/Awesome-Data-Science-Resources/blob/main/Google-Bangalore-Data-Scientist-Salary/Base%20Data%20-%2015MAR25.csv) is created. [Code](https://github.com/AI-ML-Notes/Awesome-Data-Science-Resources/blob/main/Google-Bangalore-Data-Scientist-Salary/01_Base_Data_Prep.ipynb) is here.
+
+
+### Analysis is on Kaggle
