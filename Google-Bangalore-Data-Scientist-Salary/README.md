@@ -29,3 +29,17 @@
 
 
 ### Analysis is on Kaggle
+
+Note: Salary is in lacks (100,000 INR).
+
+#### YoE wise - SWE vs Data Scientist - Mar23 to Mar25 Salary Comparison
+![YoE wise - SWE vs Data Scientist - Mar23 to Mar25 Salary Comparison](https://raw.githubusercontent.com/AI-ML-Notes/Awesome-Data-Science-Resources/refs/heads/main/Google-Bangalore-Data-Scientist-Salary/Analysis/Level%20wise%20-%20SWE%20vs%20Data%20Scientist%20-%20Mar23%20to%20Mar25%20Salary%20Comparison.png)
+#### Level wise - SWE vs Data Scientist - Mar23 to Mar25 Salary Comparison
+![YoE wise - SWE vs Data Scientist - Mar23 to Mar25 Salary Comparison](https://raw.githubusercontent.com/AI-ML-Notes/Awesome-Data-Science-Resources/refs/heads/main/Google-Bangalore-Data-Scientist-Salary/Analysis/Level%20wise%20-%20SWE%20vs%20Data%20Scientist%20-%20Mar23%20to%20Mar25%20Salary%20Comparison.png)
+
+<br><br>
+
+#### YoE and Level wise salary components for SWE and Data Scientist
+![YoE wise - SWE vs Data Scientist - Mar23 to Mar25 Salary Comparison](https://raw.githubusercontent.com/AI-ML-Notes/Awesome-Data-Science-Resources/refs/heads/main/Google-Bangalore-Data-Scientist-Salary/Analysis/YoE%20and%20Level%20wise%20salary%20components%20for%20SWE%20and%20Data%20Scientist.png)
+
+Format: (<25th percentile>, <50th percentile>, <75th percentile>)
