@@ -30,7 +30,9 @@
 
 ### Analysis is on Kaggle
 
-Note: Salary is in lacks (100,000 INR).
+Note:  <br>
+1. Salary is in lacks (100,000 INR). <br>
+2. Average Annual Total Compensation is sum of Base Salary, Average Annual Stock (RSUs), and Average Annual Bonuses. <br>
 
 #### YoE wise - SWE vs Data Scientist - Mar23 to Mar25 Salary Comparison
 ![YoE wise - SWE vs Data Scientist - Mar23 to Mar25 Salary Comparison](https://raw.githubusercontent.com/AI-ML-Notes/Awesome-Data-Science-Resources/refs/heads/main/Google-Bangalore-Data-Scientist-Salary/Analysis/Level%20wise%20-%20SWE%20vs%20Data%20Scientist%20-%20Mar23%20to%20Mar25%20Salary%20Comparison.png)
