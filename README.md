@@ -7,6 +7,7 @@ Curated list of important data science resources
 * [LeetCode] [Python, DSA (LeetCode 75)](https://leetcode.com/studyplan/leetcode-75/) &nbsp;&nbsp; [Solution](https://www.youtube.com/playlist?list=PLot-Xpze53ldVwtstag2TL4HQhAnC8ATf)&nbsp;&nbsp;**|**&nbsp;&nbsp; [Introduction to Pandas](https://leetcode.com/studyplan/introduction-to-pandas/) &nbsp;&nbsp;**|**&nbsp;&nbsp; [SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 * [HackerRank] [Python](https://www.hackerrank.com/domains/python) &nbsp;&nbsp; [Algorithms](https://www.hackerrank.com/domains/algorithms) &nbsp;&nbsp; [Data Structures](https://www.hackerrank.com/domains/data-structures) &nbsp;&nbsp;**|**&nbsp;&nbsp; [SQL](https://www.hackerrank.com/domains/sql)
 * [stratascratch] [MySQL Interview Questions](https://www.stratascratch.com/blog/mysql-interview-questions/)
+* Over 4000 Common [Python Functions](https://github.com/anjli01/Python-Functions)
 
 ## Statistics
 * [Book] [Practical Statistics for Data Scientists by Peter Bruce, Andrew Bruce, Peter Gedeck](https://www.oreilly.com/library/view/practical-statistics-for/9781492072935) &nbsp;&nbsp;&nbsp;&nbsp; [GitHub](https://github.com/gedeck/practical-statistics-for-data-scientists)
